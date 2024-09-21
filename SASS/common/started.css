@@ -1,0 +1,21 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  color: aqua;
+  max-width: 1140px !important;
+  margin: 0 auto !important;
+  padding: 0px 20px !important;
+}
+
+.title {
+  font-size: 6rem !important;
+  font-weight: bolder !important;
+}
+
+body {
+  background-color: gray;
+}/*# sourceMappingURL=started.css.map */
